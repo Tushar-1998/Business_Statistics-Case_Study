@@ -8,7 +8,7 @@
 
 
 ## CONTEXT / SOURCE:
-# The team identifies the following customer variables to study:
+The team identifies the following customer variables to study:
 - product purchased, TM195, TM498, or TM798;
 - gender;
 - age, in years;
